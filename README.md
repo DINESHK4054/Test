@@ -1,5 +1,5 @@
-1)Go to Terraform folder for creaton of VPC,Security group & Ec2 Creation please excute problem1 file.
-2)Go to Ansible folder 
+1) For creaton of VPC,Security group & Ec2 Creation please excute problem1 file.
+2)Please follow below steps
     a) Creaton of apache Creation please excute  httpd.yml file 
 	b) Creaton of tomcat Creation please excute  Tomcat.yml file
 	c) Creaton of jdk Creation please excute  jdk.yml file
